@@ -2,6 +2,10 @@
 
 Sleeping won't trigger a loading screen. You can instead enjoy the time skip timelapse.
 
+## Mod page on Nexus Mods
+
+https://www.nexusmods.com/valheim/mods/2059
+
 ## Showcase
 
 ![](https://i.imgur.com/s8GyZFj.gif)
